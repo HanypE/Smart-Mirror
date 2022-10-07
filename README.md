@@ -34,4 +34,4 @@ E pronto! você tem um sistema funcional de clima no seu espelho.
 Agora, você deve estar pensando sobre a parte física. Nossa equipe não tem requisitos para essa parte, faça como quiser
 seja criativo e arrisque idéias mirabolantes. 
 
-Obrigado. Atenciosamente 2404.
+Obrigado pela sua visita. Atenciosamente 2404.
