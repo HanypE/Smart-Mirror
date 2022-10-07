@@ -7,8 +7,9 @@ import json
 
 def callApi():
 	#inplementar a criação automatida da URL + esconder a chave da API
-	response = requests.get("https://api.openweathermap.org/data/2.5/weather?lat=-22.25&lon=-45.7&lang=pt_br&units=metric&appid=5f3c395ff107f11834e93dbf0b6f8487")
-
+	response = requests.get("https://api.openweathermap.org/data/2.5/weather?lat=-22.25&lon=-45.7&lang=pt_br&units=metric&appid= Sua chave da API")
+                                                                                                                                     #Crie uma no open wather map: https://openweathermap.org
+																     
 	#Caso o pedido tenha uma respota retorna-a
 	if response.status_code == 200:
 		print("sucessfully fetched the data")
